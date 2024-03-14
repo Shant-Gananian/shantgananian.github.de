@@ -45,7 +45,7 @@ en: &DEFAULT_EN
   comment_success_msg        : "Thanks for your comment! It will show on the site once it has been approved."
   comment_error_msg          : <h1>404 - Page not found</h1>
                                <p>Sorry, the page you are looking for could not be found.</p>
-                               <p>Please go to the <strong><a href="https://shantgananian.github.io">home page</a></strong> and navigate to your desired topic.</p>
+                               <p>Please go to the <strong><a href="https://shantgananian.github.de">home page</a></strong> and navigate to your desired topic.</p>
   #"Sorry, there was an error with your submission. Please make sure all required fields have been completed and try again."
   loading_label              : "Loading..."
   search_label_text          : "Enter your search term..."
@@ -532,7 +532,7 @@ de: &DEFAULT_DE
   comment_success_msg        : "Danke für Ihren Kommentar! Er wird auf der Seite angezeigt, nachdem er geprüft wurde."
   comment_error_msg          : <h1>404 - Seite nicht gefunden</h1>
                                <p>Die von Ihnen gesuchte Seite konnte leider nicht gefunden werden.</p>
-                               <p>Bitte gehen Sie zur <strong><a href="https://shantgananian.github.io">Startseite</a></strong> und navigieren sich zu Ihrem gew&uuml;nschten Thema.</p>
+                               <p>Bitte gehen Sie zur <strong><a href="https://shantgananian.github.de">Startseite</a></strong> und navigieren sich zu Ihrem gew&uuml;nschten Thema.</p>
   #"Entschuldigung, es gab einen Fehler. Bitte füllen Sie alle benötigten Felder aus und versuchen Sie es erneut."
   loading_label              : "Lade..."
   search_label_text          :
